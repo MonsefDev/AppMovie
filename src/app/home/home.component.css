@@ -1,0 +1,12 @@
+ .container{
+    /*border: 1px solid black;*/
+    margin: 2%;
+    overflow: auto;
+    width: 50%;
+    height: 500px;
+  }
+  app-movie{
+    cursor: move;
+    width: 50%;
+    display: inline-flex;
+  }
